@@ -1,0 +1,1 @@
+const ITEMS=[{name:'생수',price:1000,icon:'💧'},{name:'컵라면',price:2000,icon:'🍜'},{name:'과자',price:1800,icon:'🍪'},{name:'삼각김밥',price:1500,icon:'🍙'},{name:'우유',price:2200,icon:'🥛'},{name:'초콜릿',price:1600,icon:'🍫'},{name:'커피',price:2500,icon:'☕'},{name:'샌드위치',price:3500,icon:'🥪'}];
